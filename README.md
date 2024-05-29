@@ -1,5 +1,5 @@
 # Proyecto y entregabables YADA
-<p align="center"><img width="245" src="[https://github.com/davidbcaro/adso-project/blob/main/01-Trimestre%201/React-icon.png?raw=true](https://drive.google.com/drive/folders/1dkW5kYkJ5yzX1wawtYZS345KzkedJyME)"></p>
+<p align="center"><img width="245" src="https://drive.google.com/drive/folders/1dkW5kYkJ5yzX1wawtYZS345KzkedJyME"></p>
 
 ## Objetivo general 🎯
 Mejorar la competitividad, facilitar la gestion de recursos, vista y servicios
