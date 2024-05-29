@@ -1,5 +1,5 @@
 # Proyecto y entregabables YADA
-<p align="center"><img width="245" src="https://drive.google.com/drive/folders/1dkW5kYkJ5yzX1wawtYZS345KzkedJyMEraw=true"></p>
+<p align="center"><img width="245" src="file:///C:/Users/Aprendiz/Downloads/Logo%20(2).png"></p>
 
 ## Objetivo general 🎯
 Mejorar la competitividad, facilitar la gestion de recursos, vista y servicios
