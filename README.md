@@ -1,5 +1,5 @@
 # Proyecto y entregabables YADA
-<p align="center"><img width="245" src="[file:///C:/Users/Aprendiz/Downloads/Logo%20(2).png](https://github.com/senacti/project-scrum5-yada/blob/main/03-Trimestre%203/Logo%20(2).png)"></p>
+<p align="center"><img width="245" src="file:///C:/Users/Aprendiz/Downloads/Logo%20(2).png"></p>
 
 ## Objetivo general 🎯
 Mejorar la competitividad, facilitar la gestion de recursos, vista y servicios
