@@ -26,5 +26,5 @@ Incremento de los ingresos: Al facilitar la gestión de tarifas y promociones, a
 Competitividad: Un sistema de gestión hotelera moderno y eficiente puede ayudar al hotel a destacarse entre la competencia y atraer a más clientes, especialmente aquellos que valoran la conveniencia y la tecnología en su experiencia de viaje.
 ## Integrantes ⛷️
 - Jhon Anderson Camelo Urrea
-- Jorge Daniel Niño
+- Jorge Daniel Niño Sanchez
 - Alan Santiago Suarez Cardenas
